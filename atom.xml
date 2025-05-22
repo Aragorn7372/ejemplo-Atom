@@ -20,12 +20,12 @@
 
   <entry>
     <title>Niscolás Cage</title>
-    <link href="https://www.youtube.com/watch?v=KRHDiVOyFyw&list=RDKRHDiVOyFyw&start_radio=1" />
-    <id>https://www.youtube.com/watch?v=KRHDiVOyFyw&list=RDKRHDiVOyFyw&start_radio=1</id>
+    <link href="https://www.youtube.com/watch?v=KRHDiVOyFyw" />
+    <id>https://www.youtube.com/watch?v=KRHDiVOyFyw</id>
     <updated>2025-05-21T10:00:00Z</updated>
     <summary>Cancion de Alan Sutton.</summary>
-    <media:content url="https://www.youtube.com/watch?v=KRHDiVOyFyw&list=RDKRHDiVOyFyw&start_radio=1" type="text/html"/>
-    <media:thumbnail url="https://img.youtube.com/watch?v=KRHDiVOyFyw&list=RDKRHDiVOyFyw&start_radio=1/maxresdefault.jpg" />
+    <media:content url="https://www.youtube.com/watch?v=KRHDiVOyFyw" type="text/html"/>
+    <media:thumbnail url="https://www.gstatic.com/youtube/img/watch/yt_music_channel.jpeg" />
     <category term="Musica Actual"/>
   </entry>
 
