@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom"
     xmlns:media="http://search.yahoo.com/mrss/"
-    xml:lang="es-Es">
+    xml:lang="es-ES">
   <title>Noticias, Tecnología, musica y podcast </title>
   <subtitle></subtitle>
   <link href="https://www.ejemplo.com/atom"/>
   <updated>2025-05-21T10:00:00Z</updated>
-  <author>
-    <name>Víctor Marín</name>
-    <name>Adrián García-Heras</name>
-    <name>Ariel Orlando</name>
-  </author>
+<author>
+  <name>Víctor Marín</name>
+</author>
+<author>
+  <name>Adrián García-Heras</name>
+</author>
+<author>
+  <name>Ariel Orlando</name>
+</author>
+
   <id>https://www.trabajo.com/feed-id</id>
 
   <entry>
@@ -21,7 +26,7 @@
     <summary>Cancion de Alan Sutton.</summary>
     <media:content url="https://www.youtube.com/watch?v=KRHDiVOyFyw&list=RDKRHDiVOyFyw&start_radio=1" type="text/html"/>
     <media:thumbnail url="https://img.youtube.com/watch?v=KRHDiVOyFyw&list=RDKRHDiVOyFyw&start_radio=1/maxresdefault.jpg" />
-    <category term="Musica Actual">
+    <category term="Musica Actual"/>
   </entry>
 
   <entry>
@@ -31,7 +36,7 @@
     <updated>2025-05-21T10:00:00Z</updated>
     <summary>La mujer a la que Ábalos supuestamente enchufó en una filial de Renfe admite que le pidió ayuda para encontrar trabajo</summary>
     <media:content url="https://imagenes.elpais.com/resizer/v2/DXRDK64JYZMOKLGW27LKB6CGJE.jpg?auth=2e5c388f42b604fa3e2c2851daf08a3f1423e2be83220748a31e560d1b531348&width=1200" type="image/jpeg" medium="image"/>
-    <category term="Actualidad">
+    <category term="Actualidad"/>
   </entry>
 
   <entry>
@@ -41,7 +46,7 @@
     <updated>2025-05-21T10:00:00Z</updated>
     <summary>The enigmatic Mr. Davenport leads a tour of Archive 81. Melody fails to interview a member of a historical society. And Dan is unable to prevent the destruction of a tape.</summary>
     <media:content url="https://open.spotify.com/episode/1OZuq5q1NJRO6Tlbe97Mf7" type="text/html" />
-    <category term="Entretenimiento">
+    <category term="Entretenimiento"/>
   </entry>
   <entry>
     <title>Andrii Portnov muerto enfrente de un colegio</title>
@@ -50,6 +55,6 @@
     <updated>2025-05-21T10:00:00Z</updated>
     <summary>El abogado ucranio prorruso Andrii Portnov muere tiroteado en la puerta del Colegio Americano de Pozuelo de Alarcón</summary>
     <media:content url="https://imagenes.elpais.com/resizer/v2/NBSHNCVLCNCDDONVCU37SP7LDA.jpg?auth=40fcd88d6656f90437483914ba1f1406d078527d5832ef2841701c6d75dde9c9&width=1200&height=675&smart=true" type="image/jpeg" medium="image"/>
-    <category term="Politica">
+    <category term="Politica"/>
   </entry>
 </feed>
