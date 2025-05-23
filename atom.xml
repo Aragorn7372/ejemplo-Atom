@@ -25,7 +25,7 @@
     <updated>2025-05-21T10:00:00Z</updated>
     <summary>Cancion de Alan Sutton.</summary>
     <media:content url="https://www.youtube.com/watch?v=KRHDiVOyFyw" type="text/html"/>
-    <media:thumbnail url="https://www.gstatic.com/youtube/img/watch/yt_music_channel.jpeg" />
+    <media:thumbnail url="https://www.gstatic.com/youtube/img/watch/yt_music_channel.jpeg" type="image/jpeg" medium="image" />
     <category term="Musica Actual"/>
   </entry>
 
